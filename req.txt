@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+pytesseract
+docx2txt
+pdfplumber
